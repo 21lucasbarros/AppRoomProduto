@@ -2,7 +2,7 @@
 
 **Aluno:** Lucas Barros Simon  
 **RA:** 235182  
-**Aluno:** Joåo Del Manto Netto
+**Aluno:** Joåo Del Manto Netto  
 **RA:** 235126  
 **Disciplina:** Programação para Dispositivos Móveis  
 **Professor(a):** ALESSANDRO FERREIRA PAZ LIMA
